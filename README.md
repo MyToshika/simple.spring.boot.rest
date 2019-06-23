@@ -10,8 +10,7 @@
 
 #### Configurations
 
-Open the `application.properties` file and set your own configurations for the
-database connection.
+Open the `application.properties` file and set your own configurations for server port
 
 #### Prerequisites
 
